@@ -1,0 +1,87 @@
+
+
+
+
+/* ----------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------- */
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    /* color: #007b5e; */
+    color: #005154;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+/* Product Recommended css start */
+#product-recommended{
+    /*padding-bottom: 0px;*/
+}
+.heding-text{
+    margin-bottom: 2px;
+}
+.heding-text-left{
+    float: left;
+}
+.heding-text-right{
+    float: right;
+}
+
+
+.slider-img img{
+    width: 100%;
+    border-radius: 10px;
+}
+/* Product Recommended Slider css Start */
+.left_arrow{
+    position: absolute;
+    top: 40%;
+    left: -2px;
+    font-size: 20px;
+    hight: 35px;
+    width: 35px;
+    background: #0c5460;
+    color: #ffffff;
+    border-radius: 50%;
+    z-index: 99;
+    text-align: center;
+    line-height: 1.6;
+    border: 2px solid whitesmoke;
+    cursor: pointer;
+    transition: .3s;
+}
+.left_arrow:hover{
+    background: #ffffff;
+    color: #0c5460;
+}
+
+.right_arrow{
+    position: absolute;
+    top: 40%;
+    right: -2px;
+    font-size: 20px;
+    hight: 35px;
+    width: 35px;
+    background: #0c5460;
+    color: #ffffff;
+    border-radius: 50%;
+    z-index: 99;
+    text-align: center;
+    line-height: 1.6;
+    border: 2px solid whitesmoke;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.right_arrow:hover{
+    background: #ffffff;
+    color: #0c5460;
+}
+/* ---------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
+
+
